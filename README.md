@@ -92,6 +92,56 @@
 
 - [🔗 Documentação User Acess Log](https://learn.microsoft.com/pt-br/windows-server/administration/user-access-logging/manage-user-access-logging)
 
+- [🔗 Descriçao]([link](https://git-scm.com/docs/git-log/pt_BR))
+
+- [🔗 Documentação Git Log](https://git-scm.com/docs/git-log/pt_BR)
+
+- [🔗 Documentação Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+
+- [🔗 Sobre Estruturas Condicionais](https://rockcontent.com/br/talent-blog/estruturas-condicionais-2/#:~:text=As%20estruturas%20condicionais%20permitem%20que,precisa%20saber%20como%20utilizá-las.)
+
+- [🔗 Sobre MTBF, MTTR, MTTA e MTTF](https://www.atlassian.com/br/incident-management/kpis/common-metrics)
+
+- [🔗 Sobre MTTD e MTTR](https://blog.cubos.io/mttd-e-mttr-o-que-sao-e-por-que-dar-atencao/)
+
+- [🔗 Sobre TroubleShooting](https://4infra.com.br/troubleshooting-o-que-e-e-como-aplica-lo-o-que-e-e-como-aplica-lo/)
+
+- [🔗 Documentação Simple Logging Facade for Java (SLF4J)](https://www.slf4j.org)
+
+- [🔗 Sobre Analise de Causa Raiz (RCA)](https://www.fm2s.com.br/blog/analise-de-causa-raiz)
+
+- [🔗 Sobre os 3 Pilares da Observabilidade](https://www.opservices.com.br/pilares-da-observabilidade/)
+
+- [🔗 Sobre CRUD](https://blog.betrybe.com/tecnologia/crud-operacoes-basicas/)
+
+- [🔗 Site Postman](https://www.postman.com)
+
+- [🔗 Sobre stdin, stdout, stderr](https://learn.microsoft.com/pt-br/cpp/c-runtime-library/stdin-stdout-stderr?view=msvc-170)
+
+- [🔗 Sobre Arquivos de Log](https://aws.amazon.com/pt/what-is/log-files/#:~:text=Arquivos%20de%20log%20são%20arquivos,servidor%20ou%20sistema%20de%20TI.)
+
+- [🔗 Site LogBack](https://logback.qos.ch)
+
+- [🔗 Sobre Log4J (DEBUG, INFO, WARN, ERROR, FATAL)](https://www.devmedia.com.br/introducao-ao-log4j/28602)
+
+- [🔗 Sobre Niveis de Log](https://www.ibm.com/docs/pt-br/was/9.0.5?topic=logger-log-levels)
+
+- [🔗 Sobre Logger](https://www.ibm.com/docs/pt-br/was/8.5.5?topic=ujlia-using-logger-1)
+
+- [🔗 Sobre JDBC Pool](https://www.progress.com/tutorials/jdbc/jdbc-jdbc-connection-pooling)
+
+- [🔗 Sobre Data Transfer Object (DTO)](https://fullcycle.com.br/o-que-e-dto/#:~:text=DTO%20(Data%20Transfer%20Object)%20é,trafegam%20dentro%20de%20um%20sistema.)
+
+- [🔗 Sobre Elastic Search](https://www.elastic.co/pt/what-is/elasticsearch)
+
+- [🔗 Sobre Slunk](https://medium.com/fora-de-assunto/splunk-o-que-é-quais-são-os-seus-componentes-e-guia-de-instalação-796ffe3f05d1)
+
+- [🔗 Sobre Universally Unique IDentifier (UUID)](https://medium.com/trainingcenter/o-que-é-uuid-porque-usá-lo-ad7a66644a2b)
+
+- [🔗 Documentação Grafana Loki](https://grafana.com/docs/loki/latest/)
+
+- [🔗 Descriçao](link)
+
 - [🔗 Descriçao](link)
 
 ## 🛠 Cursos
