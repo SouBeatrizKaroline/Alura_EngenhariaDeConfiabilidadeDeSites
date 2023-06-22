@@ -62,11 +62,35 @@
 
 - [🔗 Documentação Counter](https://www.wikiwand.com/en/Counter-development)
 
-- [🔗 Descriçao](link)
+- [🔗 Documentação Node Red](https://nodered.org/docs/)
 
-- [🔗 Descriçao](link)
+- [🔗 Documentação Red Had Enterprise Linux](https://access.redhat.com/documentation/pt-br/red_hat_enterprise_linux/8/html/configuring_basic_system_settings/_online_documentation_2)
 
-- [🔗 Descriçao](link)
+- [🔗 4 SRE Golden Signals](https://www.blameless.com/blog/4-sre-golden-signals-what-they-are-and-why-they-matter)
+
+- [🔗 Documentação HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP)
+
+- [🔗 Documentação Docker](https://docs.docker.com)
+
+- [🔗 Documentação TCI IP](https://learn.microsoft.com/pt-br/sql/tools/configuration-manager/client-protocols-tcp-ip-properties-protocol-tab?view=sql-server-ver16)
+
+- [🔗 Documentação .yml](https://www.reviversoft.com/pt/file-extensions/yml)
+
+- [🔗 Documentação SQL](https://www.devmedia.com.br/exemplo/documentacao-sql/76)
+
+- [🔗 Documentação JDBC](https://www.ibm.com/docs/pt-br/developer-for-zos/14.1?topic=support-what-is-jdbc#:~:text=JDBC%20significa%20Java™%20EE,interação%20do%20banco%20de%20dados.)
+
+- [🔗 Documentação Log Back](https://logback.qos.ch/documentation.html)
+
+- [🔗 Documentação JSON](https://www.devmedia.com.br/o-que-e-json/23166)
+
+- [🔗 Site WebHook](https://webhook.site)
+
+- [🔗 Descriçao](https://deskmanager.com.br/blog/slo/)
+
+- [🔗 Documentação Service Level Objective (SLO)](https://deskmanager.com.br/blog/slo/)
+
+- [🔗 Documentação User Acess Log](https://learn.microsoft.com/pt-br/windows-server/administration/user-access-logging/manage-user-access-logging)
 
 - [🔗 Descriçao](link)
 
