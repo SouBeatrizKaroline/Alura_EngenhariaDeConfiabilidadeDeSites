@@ -86,13 +86,13 @@
 
 - [🔗 Site WebHook](https://webhook.site)
 
-- [🔗 Descriçao](https://deskmanager.com.br/blog/slo/)
+- [🔗 Sobre Service Level Objective (SLO)](https://deskmanager.com.br/blog/slo/)
 
 - [🔗 Documentação Service Level Objective (SLO)](https://deskmanager.com.br/blog/slo/)
 
 - [🔗 Documentação User Acess Log](https://learn.microsoft.com/pt-br/windows-server/administration/user-access-logging/manage-user-access-logging)
 
-- [🔗 Descriçao]([link](https://git-scm.com/docs/git-log/pt_BR))
+- [🔗 Sobre Git Log](https://git-scm.com/docs/git-log/pt_BR)
 
 - [🔗 Documentação Git Log](https://git-scm.com/docs/git-log/pt_BR)
 
@@ -140,9 +140,29 @@
 
 - [🔗 Documentação Grafana Loki](https://grafana.com/docs/loki/latest/)
 
-- [🔗 Descriçao](link)
+- [🔗 Site Spring Boot](https://spring.io/projects/spring-boot)
 
-- [🔗 Descriçao](link)
+- [🔗 Site Grafana Loki](https://grafana.com/oss/loki/)
+
+- [🔗 Sobre Security Information and Event Management (SIEM)](https://seginfo.com.br/2020/09/03/o-que-e-siem-e-quais-suas-principais-funcionalidades/)
+
+- [🔗 Sobre Extensible Markup Language (XML)](https://aws.amazon.com/pt/what-is/xml/#:~:text=A%20Extensible%20Markup%20Language%20(XML,dados%20e%20aplicações%20de%20terceiros.)
+
+- [🔗 Sobre .sh](https://www.reviversoft.com/pt/file-extensions/sh)
+
+- [🔗 Sobre tipos de Deploy](https://www.locaweb.com.br/blog/temas/codigo-aberto/conheca-os-principais-tipos-de-deploy-e-quando-usar-cada-um/)
+
+- [🔗 Sobre Multi Tenancy](https://www.devmedia.com.br/transforme-aplicacoes-web-em-servicos-multi-tenant/28881#:~:text=Um%20serviço%20é%20dito%20Multi,instância%2Finstalação%20para%20cada%20cliente.)
+
+- [🔗 Documentação Grafana Loki Query Front-End](https://grafana.com/docs/loki/latest/configuration/query-frontend/)
+
+- [🔗 Documentação Loki4j Logback](https://loki4j.github.io/loki-logback-appender/)
+
+- [🔗 Sobre Webhook](https://transfeera.com/blog/webhook/#:~:text=O%20que%20é%20webhook%3F,que%20um%20evento%20qualificado%20acontece.)
+
+- [🔗 Sobre Troubleshooting](https://wtr.pop-ba.rnp.br/2019/files/apresentacoes/05-bruno-wtr2019.pdf)
+
+- [🔗 Sobre Slack](https://www.ibm.com/docs/pt-br/cognos-analytics/11.1.0?topic=platform-creating-slack-application)
 
 ## 🛠 Cursos
 
