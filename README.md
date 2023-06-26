@@ -146,7 +146,7 @@
 
 - [🔗 Sobre Security Information and Event Management (SIEM)](https://seginfo.com.br/2020/09/03/o-que-e-siem-e-quais-suas-principais-funcionalidades/)
 
-- [🔗 Sobre Extensible Markup Language (XML)](https://aws.amazon.com/pt/what-is/xml/#:~:text=A%20Extensible%20Markup%20Language%20(XML,dados%20e%20aplicações%20de%20terceiros.)
+- [🔗 Sobre XML](https://aws.amazon.com/pt/what-is/xml/#:~:text=A%20Extensible%20Markup%20Language%20)
 
 - [🔗 Sobre .sh](https://www.reviversoft.com/pt/file-extensions/sh)
 
